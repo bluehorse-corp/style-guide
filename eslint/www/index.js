@@ -1,4 +1,4 @@
-const { parser, extends: defaultExtends, plugins } = require('./lib/shared');
+const { parser, extends: defaultExtends, plugins } = require('../base/lib/shared');
 
 module.exports = {
   env: {
