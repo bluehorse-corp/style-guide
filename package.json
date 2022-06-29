@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-bluehorse-base",
+  "version": "0.0.0-development",
+  "description": "Bluehorse",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluehorse-corp/eslint-config-bluehorse-base.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Bluehorse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluehorse-corp/eslint-config-bluehorse-base/issues"
+  },
+  "homepage": "https://github.com/bluehorse-corp/eslint-config-bluehorse-base#readme"
+}
